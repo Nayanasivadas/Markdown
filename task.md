@@ -12,8 +12,8 @@
 - [ ] Crushed Oreos 
 
   ## choose a cherry
-! [cherry](https://images.app.goo.gl/8VKx5RC1DSH2EFAn8)
-- [ ] ## 📋 Final Sundae Summary
+![cherry](https://upload.wikimedia.org/wikipedia/commons/f/f6/Cherry_season_%2848216568227%29.jpg)
+## 📋 Final Sundae Summary
 
 | Topping        | Type       |
 |----------------|------------|
